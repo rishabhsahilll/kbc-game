@@ -1,0 +1,1022 @@
+[
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": {
+            "A": "Earth",
+            "B": "Mars",
+            "C": "Jupiter",
+            "D": "Venus"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas do humans primarily inhale during respiration?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Hydrogen"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the play \"Romeo and Juliet\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": {
+            "A": "Paris",
+            "B": "Rome",
+            "C": "Madrid",
+            "D": "Berlin"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the color of the auroras (northern and southern lights)?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Helium"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": {
+            "A": "London",
+            "B": "Rome",
+            "C": "Paris",
+            "D": "Berlin"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who is known as the father of modern physics?",
+        "options": {
+            "A": "Isaac Newton",
+            "B": "Albert Einstein",
+            "C": "Galileo Galilei",
+            "D": "Nikola Tesla"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": {
+            "A": "Wo",
+            "B": "Wa",
+            "C": "H2O",
+            "D": "Wt"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the \"Red Planet\"?",
+        "options": {
+            "A": "Mars",
+            "B": "Venus",
+            "C": "Jupiter",
+            "D": "Saturn"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who is the author of \"The Lord of the Rings\" trilogy?",
+        "options": {
+            "A": "J.R.R. Tolkien",
+            "B": "George R.R. Martin",
+            "C": "J.K. Rowling",
+            "D": "C.S. Lewis"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who developed the Python Programming Language?",
+        "options": {
+            "A": "Wick van Rossum",
+            "B": "Rasmus Lerdorf",
+            "C": "Guido van Rossum",
+            "D": "Niene Stom"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which type of Programming does Python support?",
+        "options": {
+            "A": "object-oriented programming",
+            "B": "structured programming",
+            "C": "functional programming",
+            "D": "all of the mentioned"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": {
+            "A": "Berlin",
+            "B": "Madrid",
+            "C": "Paris",
+            "D": "Rome"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the \"Red Planet\"?",
+        "options": {
+            "A": "Earth",
+            "B": "Mars",
+            "C": "Venus",
+            "D": "Jupiter"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": {
+            "A": "H2O",
+            "B": "CO2",
+            "C": "O2",
+            "D": "CH4"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the play \"Romeo and Juliet\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest mammal on Earth?",
+        "options": {
+            "A": "Elephant",
+            "B": "Blue whale",
+            "C": "Giraffe",
+            "D": "Lion"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which gas do plants absorb during photosynthesis?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Hydrogen"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Dollar",
+            "D": "Pound"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who painted the famous artwork \"Mona Lisa\"?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Leonardo da Vinci",
+            "C": "Pablo Picasso",
+            "D": "Michelangelo"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": {
+            "A": "Ag",
+            "B": "Au",
+            "C": "Fe",
+            "D": "Hg"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the greenhouse effect on Earth?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Methane"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the novel \"1984\"?",
+        "options": {
+            "A": "George Orwell",
+            "B": "Aldous Huxley",
+            "C": "Ray Bradbury",
+            "D": "J.D. Salinger"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": {
+            "A": "Sahara Desert",
+            "B": "Gobi Desert",
+            "C": "Atacama Desert",
+            "D": "Antarctic Desert"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is used by plants during photosynthesis to produce glucose?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Hydrogen"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who painted the famous artwork \"The Persistence of Memory\" (commonly known as the melting clocks)?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Salvador Dalí",
+            "C": "Pablo Picasso",
+            "D": "Claude Monet"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the currency of India?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Rupee",
+            "D": "Dollar"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is responsible for the color of the sky during daytime?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Ozone"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": {
+            "A": "Sydney",
+            "B": "Melbourne",
+            "C": "Canberra",
+            "D": "Brisbane"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the play \"Macbeth\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who developed the Python Programming Language?",
+        "options": {
+            "A": "Wick van Rossum",
+            "B": "Rasmus Lerdorf",
+            "C": "Guido van Rossum",
+            "D": "Niene Stom"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which type of Programming does Python support?",
+        "options": {
+            "A": "object-oriented programming",
+            "B": "structured programming",
+            "C": "functional programming",
+            "D": "all of the mentioned"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": {
+            "A": "Fe",
+            "B": "Ag",
+            "C": "Au",
+            "D": "Hg"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the smell of rotten eggs?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Hydrogen sulfide",
+            "D": "Carbon dioxide"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the novel \"To Kill a Mockingbird\"?",
+        "options": {
+            "A": "Harper Lee",
+            "B": "J.D. Salinger",
+            "C": "F. Scott Fitzgerald",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest mountain range in the world?",
+        "options": {
+            "A": "Andes",
+            "B": "Alps",
+            "C": "Himalayas",
+            "D": "Rockies"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is used by firefighters to extinguish fires?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Halon"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Who painted the famous artwork \"The Starry Night\"?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Salvador Dalí",
+            "C": "Pablo Picasso",
+            "D": "Claude Monet"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the currency of Russia?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Ruble",
+            "D": "Dollar"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is responsible for the color of the auroras (northern and southern lights)?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Helium"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "options": {
+            "A": "Cape Town",
+            "B": "Johannesburg",
+            "C": "Pretoria",
+            "D": "Durban"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the play \"Othello\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the chemical symbol for sodium?",
+        "options": {
+            "A": "Na",
+            "B": "K",
+            "C": "Mg",
+            "D": "Ca"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the smell of rotten fish?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Ammonia",
+            "D": "Hydrogen sulfide"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Who wrote the novel \"The Great Gatsby\"?",
+        "options": {
+            "A": "F. Scott Fitzgerald",
+            "B": "Ernest Hemingway",
+            "C": "Mark Twain",
+            "D": "Jane Austen"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest river in the world by volume of water discharged?",
+        "options": {
+            "A": "Nile",
+            "B": "Amazon",
+            "C": "Yangtze",
+            "D": "Mississippi"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which gas is used in balloons to make them float?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Helium",
+            "D": "Hydrogen"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who painted the famous artwork \"Girl with a Pearl Earring\"?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Johannes Vermeer",
+            "C": "Pablo Picasso",
+            "D": "Claude Monet"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the currency of South Korea?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Won",
+            "D": "Dollar"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is responsible for the color of flames in a campfire?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Hydrogen"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": {
+            "A": "Rome",
+            "B": "Milan",
+            "C": "Florence",
+            "D": "Venice"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the play \"A Midsummer Night's Dream\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "options": {
+            "A": "K",
+            "B": "Na",
+            "C": "Mg",
+            "D": "Fe"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the smell of garlic?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Sulfur dioxide",
+            "D": "Carbon dioxide"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the novel \"The Catcher in the Rye\"?",
+        "options": {
+            "A": "J.D. Salinger",
+            "B": "F. Scott Fitzgerald",
+            "C": "Ernest Hemingway",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest oceanic trench in the world?",
+        "options": {
+            "A": "Mariana Trench",
+            "B": "Puerto Rico Trench",
+            "C": "Java Trench",
+            "D": "Sunda Trench"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is used in carbonated beverages to make them fizzy?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Helium"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who painted the famous artwork \"The Birth of Venus\"?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Sandro Botticelli",
+            "C": "Pablo Picasso",
+            "D": "Claude Monet"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the currency of Canada?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Canadian Dollar",
+            "D": "Pound"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is responsible for the color of the auroras (northern and southern lights)?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Helium"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "options": {
+            "A": "Buenos Aires",
+            "B": "Santiago",
+            "C": "Montevideo",
+            "D": "Lima"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the play \"The Tempest\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the chemical symbol for calcium?",
+        "options": {
+            "A": "Ca",
+            "B": "K",
+            "C": "Na",
+            "D": "Fe"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the smell of rotten cabbage?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Sulfur dioxide",
+            "D": "Carbon dioxide"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the novel \"One Hundred Years of Solitude\"?",
+        "options": {
+            "A": "Gabriel García Márquez",
+            "B": "Isabel Allende",
+            "C": "Mario Vargas Llosa",
+            "D": "Julio Cortázar"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest lake in the world by surface area?",
+        "options": {
+            "A": "Lake Superior",
+            "B": "Lake Victoria",
+            "C": "Caspian Sea",
+            "D": "Lake Baikal"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is used in welding to create a protective shield around the weld area?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Argon"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Who painted the famous artwork \"The Persistence of Memory\" (commonly known as the melting clocks)?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Salvador Dalí",
+            "C": "Pablo Picasso",
+            "D": "Claude Monet"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the currency of Mexico?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Peso",
+            "D": "Dollar"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is responsible for the color of the auroras (northern and southern lights)?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Helium"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "options": {
+            "A": "Cairo",
+            "B": "Alexandria",
+            "C": "Luxor",
+            "D": "Giza"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the play \"Romeo and Juliet\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the chemical symbol for lead?",
+        "options": {
+            "A": "Ld",
+            "B": "Pb",
+            "C": "Fe",
+            "D": "Hg"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which gas is responsible for the smell of rotten eggs?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Hydrogen sulfide",
+            "D": "Carbon dioxide"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the novel \"Brave New World\"?",
+        "options": {
+            "A": "Aldous Huxley",
+            "B": "George Orwell",
+            "C": "Ray Bradbury",
+            "D": "Margaret Atwood"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest desert in Africa?",
+        "options": {
+            "A": "Sahara Desert",
+            "B": "Kalahari Desert",
+            "C": "Namib Desert",
+            "D": "Libyan Desert"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is used in fire extinguishers to suppress fires?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Halon"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Who painted the famous artwork \"The Starry Night\"?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Salvador Dalí",
+            "C": "Pablo Picasso",
+            "D": "Claude Monet"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the currency of Brazil?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Real",
+            "D": "Peso"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is responsible for the color of the auroras (northern and southern lights)?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Helium"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "options": {
+            "A": "Barcelona",
+            "B": "Madrid",
+            "C": "Valencia",
+            "D": "Seville"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Who wrote the play \"Hamlet\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": {
+            "A": "Ag",
+            "B": "Au",
+            "C": "Fe",
+            "D": "Hg"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the smell of rotten eggs?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Hydrogen sulfide",
+            "D": "Carbon dioxide"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the novel \"Brave New World\"?",
+        "options": {
+            "A": "Aldous Huxley",
+            "B": "George Orwell",
+            "C": "Ray Bradbury",
+            "D": "Margaret Atwood"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest lake in the world by surface area?",
+        "options": {
+            "A": "Lake Superior",
+            "B": "Lake Victoria",
+            "C": "Caspian Sea",
+            "D": "Lake Baikal"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is used in carbonated beverages to make them fizzy?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Helium"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who painted the famous artwork \"The Persistence of Memory\" (commonly known as the melting clocks)?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Salvador Dalí",
+            "C": "Pablo Picasso",
+            "D": "Claude Monet"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the currency of Mexico?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Peso",
+            "D": "Dollar"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which gas is responsible for the color of the auroras (northern and southern lights)?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Helium"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "options": {
+            "A": "Cairo",
+            "B": "Alexandria",
+            "C": "Luxor",
+            "D": "Giza"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the play \"Romeo and Juliet\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": {
+            "A": "Au",
+            "B": "Ag",
+            "C": "Fe",
+            "D": "Hg"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the smell of rotten fish?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Ammonia",
+            "D": "Hydrogen sulfide"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Who wrote the novel \"Pride and Prejudice\"?",
+        "options": {
+            "A": "Jane Austen",
+            "B": "Charles Dickens",
+            "C": "Emily Brontë",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest mammal on Earth?",
+        "options": {
+            "A": "Elephant",
+            "B": "Blue whale",
+            "C": "Giraffe",
+            "D": "Lion"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which gas do plants primarily exhale during respiration?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Hydrogen"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who painted the famous artwork \"Mona Lisa\"?",
+        "options": {
+            "A": "Vincent van Gogh",
+            "B": "Leonardo da Vinci",
+            "C": "Pablo Picasso",
+            "D": "Michelangelo"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": {
+            "A": "Yen",
+            "B": "Euro",
+            "C": "Dollar",
+            "D": "Pound"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which gas is responsible for the color of the sky during daytime?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon dioxide",
+            "D": "Ozone"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": {
+            "A": "Sydney",
+            "B": "Melbourne",
+            "C": "Canberra",
+            "D": "Brisbane"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the play \"Othello\"?",
+        "options": {
+            "A": "William Shakespeare",
+            "B": "Charles Dickens",
+            "C": "Jane Austen",
+            "D": "Mark Twain"
+        },
+        "answer": "A"
+    }
+]

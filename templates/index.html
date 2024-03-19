@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KBC Game</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/KBC.css') }}">
+    <link rel="shortcut icon" type="image/jpg" href="{{ url_for('static', filename='img/KBC.jpg') }}">
+</head>
+
+<body>
+    <div class="container">
+
+        <main>
+            <div class="question-container">
+                <h2 id="question">{{questions_answer_options[indexno]['Question']}}</h2>
+            </div>
+            <form action="/nxt" method="post">
+                <div class="options-container">
+                    <button class="option" id="optionA" name="optionA" value="A" style="background-color:{{ style['bgcolorA']}};" {{ style['btnA']}}>A. {{questions_answer_options[indexno]['Options']['A']}}</button>
+                    <button class="option" id="optionB" name="optionB" value="B" style="background-color:{{ style['bgcolorB']}};" {{ style['btnB']}}>B. {{questions_answer_options[indexno]['Options']['B']}}</button><br>
+                    <button class="option" id="optionC" name="optionC" value="C" style="background-color:{{ style['bgcolorC']}};" {{ style['btnC']}}>C. {{questions_answer_options[indexno]['Options']['C']}}</button>
+                    <button class="option" id="optionD" name="optionD" value="D" style="background-color:{{ style['bgcolorD']}};" {{ style['btnD']}}>D. {{questions_answer_options[indexno]['Options']['D']}}</button>
+                </div>
+                <button id="submit-button" disabled></button>
+        </main>
+        <div class="result-container" style="display: {{ style['display'] }} ;">
+            <p id="result">{{ReplayData}}</p>
+        </div>
+        <div class="question-navigation">
+            <button id="next-question" name="next-question" value="next-question">Next Question</button>
+            <button id="next-question" name="total-prize-money" value="total-prize-money">Total Prize Money</button>
+        </div>
+        </form>
+
+    </div>
+
+    <body class="a">
+        <a href="instagram.com/ll._rsy_.ll" style="color:white; text-decoration: none;">
+            <div class="name-container">
+                <!-- <div class="letter">&copy</div> -->
+                <div class="letter">@</div>
+                <div class="letter">ll</div>
+                <div class="letter">.</div>
+                <div class="letter">_</div>
+                <div class="letter">r</div>
+                <div class="letter">s</div>
+                <div class="letter">y</div>
+                <div class="letter">_</div>
+                <div class="letter">.</div>
+                <div class="letter">ll</div>
+            </div>
+        </a>
+    </body>
+</body>
+
+</html>
